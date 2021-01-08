@@ -1,7 +1,7 @@
 Epoch,Time,Talk,Chair Gender,Speaker Gender,Questions,N,Comments
 1515512886,2018-01-09 07:48:06,102.03,M,M,MM,1,
 1515735038,2018-01-11 21:30:38,102.04,M,M,MMM,2,Ignore the last 2 entries that were identical to this one but missing data; there were only 2 entries for this talk ID
-1515735055,2018-01-11 21:30:55,102.05,M,,MMM,1,
+1515735055,2018-01-11 21:30:55,102.05,M,M,MMM,1,Speaker gender assumed from first name “Daniel”
 1515735081,2018-01-11 21:31:21,102.06,M,F,,1,No questions 
 1515735091,2018-01-11 21:31:31,102.08,M,F,M,1,
 1515511737,2018-01-09 07:28:57,106.01,F,M,FF,1,
